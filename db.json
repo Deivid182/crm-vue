@@ -1,0 +1,24 @@
+{
+  "customers": [
+    {
+      "name": "Dave",
+      "last_name": "Peralta Mendoza",
+      "email": "dave@gmail.com",
+      "phone_number": "123-123-1223",
+      "company_name": "UpTask",
+      "job": "Web dev",
+      "status": false,
+      "id": 1
+    },
+    {
+      "name": "Midudev Pro",
+      "last_name": "Dev",
+      "email": "midu@gmail.com",
+      "phone_number": "213-123-1231",
+      "company_name": "YT",
+      "job": "Web dev",
+      "status": true,
+      "id": 3
+    }
+  ]
+}
